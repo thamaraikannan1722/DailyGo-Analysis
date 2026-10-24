@@ -2,11 +2,7 @@
 
 ## 📌 Project Overview
 
-DailyGo is a retail sales analysis project developed to analyze 
-sales performance
-customer-related metrics
-product performance
-outlet performance using Excel and SQL.
+DailyGo is a retail sales analysis project developed to analyze sales performance,customer-related metrics,product performance,outlet performance using Excel and SQL.
 
 The project follows defined business requirements and focuses on key performance indicators (KPIs) and business-oriented analysis.
 
