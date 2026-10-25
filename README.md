@@ -77,5 +77,4 @@ DailyGo-Analysis/
 
 
 ## Excel Dashboard
-![DailyGo Excel Dashboard]
-(DailyGo-Excel-Dashboard)
+
