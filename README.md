@@ -76,8 +76,6 @@ DailyGo-Analysis/
 └── README.md
 
 
-## Excel Dashboard
-
 ![image](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/75c21916a1d1b89726fc1edc41706e818086b36c/DailyGo-Excel-Dashboard.png)
 
 
