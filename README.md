@@ -77,5 +77,5 @@ DailyGo-Analysis/
 
 
 ## Excel Dashboard
-![DailyGo Excel Dashboard]
-(https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/main/DailyGo-Excel-Dashboard.png)
+
+
