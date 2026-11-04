@@ -1,12 +1,16 @@
 # 🚦 Road Accident Analysis Dashboard
 
+EXCEL DASHBOARD
+
+![DASHBOARD EXCEL](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/aa24cbd91a3252d5b26f836dc53db8573d3b2a46/EXCEL/Road%20Accident%20Excel.png)
+
 ## 📋 BUSINESS REQUIREMENTS DOCUMENT (BRD)
 
 ### 🎯 1. Business Requirement
 
 To conduct a comprehensive analysis of road accidents and casualties to identify key insights, trends, and factors contributing to road accidents. The objective is to analyze casualty severity, vehicle types, road conditions, weather conditions, lighting conditions, and geographical distribution to understand accident patterns and support data-driven road safety analysis.
 
-![DASHBOARD EXCEL](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/aa24cbd91a3252d5b26f836dc53db8573d3b2a46/EXCEL/Road%20Accident%20Excel.png)
+
 The project uses **Microsoft Excel, SQL, and Power BI** for data cleaning, data analysis, and interactive dashboard development.
 
 ---
