@@ -1,7 +1,5 @@
 # 🚦 Road Accident Analysis Dashboard
 
-EXCEL DASHBOARD
-
 ## 📋 BUSINESS REQUIREMENTS DOCUMENT (BRD)
 
 ### 🎯 1. Business Requirement
