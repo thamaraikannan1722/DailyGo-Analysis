@@ -2,8 +2,6 @@
 
 EXCEL DASHBOARD
 
-![DASHBOARD EXCEL](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/aa24cbd91a3252d5b26f836dc53db8573d3b2a46/EXCEL/Road%20Accident%20Excel.png)
-
 ## 📋 BUSINESS REQUIREMENTS DOCUMENT (BRD)
 
 ### 🎯 1. Business Requirement
