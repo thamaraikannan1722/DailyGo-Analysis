@@ -10,7 +10,7 @@ To conduct a comprehensive analysis of DailyGo's sales performance, customer sat
 The project involves **Microsoft Excel, SQL, and Power BI** for data cleaning, data analysis, data transformation, and interactive dashboard development.
 
 EXCEL DASHBOARD
-![EXCEL DASHBOARD](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/9e20f9b7e831d6ac351fa0bc27177409f4980fbd/EXCEL/DailyGo-Excel-Dashboard.png)
+![EXCEL DASHBOARD](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/78d5e179d497a278d6dfe6fcb5ebdd9a1699c9c7/EXCEL/DAILYGO%20EXCEL%20DASHBOARD.png)
 POWER BI DASHBOARD
 ![POWER BI DASHBOARD](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/09f2c3db775b48e51d7e31564d10ef6f493155ec/POWER%20BI/DAILYGO%20BI%20DASHBOARD.png)
 
