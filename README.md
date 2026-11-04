@@ -1,5 +1,8 @@
 # 🚦 Road Accident Analysis Dashboard
 
+EXCEL DASHBOARD
+![EXCEL DASHBOARD](https://github.com/thamaraikannan1722/DailyGo-Analysis/blob/9e20f9b7e831d6ac351fa0bc27177409f4980fbd/EXCEL/DailyGo-Excel-Dashboard.png)
+
 ## 📋 BUSINESS REQUIREMENTS DOCUMENT (BRD)
 
 ### 🎯 1. Business Requirement
@@ -25,7 +28,7 @@ The project uses **Microsoft Excel, SQL, and Power BI** for data cleaning, data 
 
 6. **CY vs PY Casualties:** Compare Current Year casualties with Previous Year casualties to identify the percentage increase or decrease.
 
----
+
 
 ## 📈 3. Granular Requirements
 
